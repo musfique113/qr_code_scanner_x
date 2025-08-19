@@ -4,8 +4,7 @@ version: 0.0.1
 homepage: https://github.com/musfique113/qr_code_scanner_x.git
 
 environment:
-  sdk: ^3.8.1
-  flutter: ">=1.17.0"
+  sdk: '>=3.4.4 <4.0.0'
 
 dependencies:
   js: ^0.6.3

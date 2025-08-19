@@ -155,9 +155,11 @@ packages:
   qr_code_scanner_x:
     dependency: "direct main"
     description:
-      path: ".."
-      relative: true
-    source: path
+      path: "."
+      ref: master
+      resolved-ref: "29c0d8067102e55f75ab0b27eab0469eb4907b1f"
+      url: "https://github.com/musfique113/qr_code_scanner_x.git"
+    source: git
     version: "0.0.1"
   sky_engine:
     dependency: transitive
